@@ -1,4 +1,4 @@
-Information about Project
+#Information about Project
 Welcome to the Superstore Sales Dashboard created in Power BI. This dashboard provides a comprehensive analysis of sales data from a fictional superstore, focusing on key performance indicators (KPIs), sales trends over the years, and sales distribution across different regions, payment modes, and customer segments.
 
 1) Main KPIs Overview: This section presents the main KPIs including Total Sales, Quantity Sold, and Profit, providing a snapshot of the superstore's performance at a glance.
